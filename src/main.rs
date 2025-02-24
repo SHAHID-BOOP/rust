@@ -13,3 +13,5 @@ fn is_even(num: i32) -> bool {
         return false;
     }
 }
+// also there is a use of solidity in rust
+// solidity is a language used for smart contracts
