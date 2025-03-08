@@ -17,3 +17,4 @@ fn is_even(num: i32) -> bool {
 // solidity is a language used for smart contracts
 // solana is a blockchain which uses rust
 // programs for solana and smart contracts for ethereum
+// core of cpu context switches
